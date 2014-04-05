@@ -1,5 +1,4 @@
 var assert = require('power-assert');
-var mockery = require('mockery');
 var sinon = require('sinon');
 var fs = require('fs');
 

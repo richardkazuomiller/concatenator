@@ -69,10 +69,4 @@ options `Object`
 
 ##Tests
 
-Tests require istanbul, mocha, and power-assert to be installed globally.
-
-	npm install -g mocha
-	npm install -g istanbul
-	npm install -g power-assert
-
 Use `npm test` to run tests and see coverage to see test coverage.
