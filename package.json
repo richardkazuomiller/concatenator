@@ -1,0 +1,9 @@
+{
+  "name" : "concatenator",
+  "version" : "0.0.1",
+  "main" : "./lib/concatenator.js",
+  "description" : "Concatenates the contents of a directory",
+  "scripts" : {
+    "test" : "istanbul cover _mocha -- test/ --recursive --require require/enable-power-assert.js"
+  }
+}
