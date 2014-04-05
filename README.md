@@ -70,3 +70,7 @@ options `Object`
 ##Tests
 
 Use `npm test` to run tests and see coverage to see test coverage.
+
+Mocha and Istanbul need to be installed globally
+
+`npm install mocha istanbul -g`
