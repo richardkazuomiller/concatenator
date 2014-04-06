@@ -1,6 +1,10 @@
 #Concatenator
 
-Concatenates the contents of a directory. This is useful for loading frontend JavaScript files, html templates, or any other group of files in a directory.
+Concatenates the contents of a directory. This is useful for loading frontend JavaScript files, html templates, CSS, or any other group of files in a directory.
+
+##Install
+
+npm install concatenator
 
 ##concatenator.concat_dir(path,options,callback)
 
